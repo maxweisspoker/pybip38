@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: pybip38
+Version: 0.9
+Author: Maximilian Weiss
+Author-email: MaxWeiss at hotmail com
+Home-page: https://github.com/maxweisspoker/pybip38
+Download-url: https://github.com/maxweisspoker/pybip38
+Summary: My python implementation of the full BIP0038 spec
+License: MIT
+Description: UNKNOWN
+Keywords: bitcoin bip38 bip0038 bip BIP 38 BIP38 BIP0038 password encryption casascius private key
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+

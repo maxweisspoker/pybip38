@@ -1,0 +1,4 @@
+pycrypto
+scrypt
+simplebitcoinfuncs
+
