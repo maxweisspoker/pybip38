@@ -1,3 +1,6 @@
+# DEPRECATED
+I'm deprecating this library, since I know I'm not going to work on it, and if I do, it will be a complete rewrite.  This is some of the first code I ever wrote, and it's gross and sloppy not a good representation of my current knowledge and ability. But pypi stats have told me that many people have downloaded it and continue to download and use it, so despite my reservations about leaving it up due to the code quality, I know for a fact that some people somewhere are depending on it (scary as that may be...), so I'm going to leave it here.
+
 # pybip38
 My python implementation of the full BIP0038 spec
 
